@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "minitask": {
+      "type": "http",
+      "url": "https://mcp.example.net/minitask-mcp",
+      "headers": { "Authorization": "Bearer your-bearer-token" }
+    }
+  }
+}
