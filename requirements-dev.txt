@@ -11,7 +11,7 @@ ruff==0.16.9
 # 7.6.1 is a floor, not just the current version: 7.6.0 imports
 # pip._internal.utils.compat.stdlib_pkgs, which pip 26 removed, so pip-compile
 # died on the runner's own pip before reading a single requirement.
-pip-tools==7.6.1
+pip-tools==7.6.2
 
 # Reports known CVEs against the pinned production set.
 pip-audit==2.10.1
