@@ -5,7 +5,7 @@
 # release nobody chose.
 
 pytest==9.1.1
-ruff==0.16.9
+ruff==0.17.1
 
 # Regenerates requirements.txt with hashes — see the header of requirements.in.
 # 7.6.1 is a floor, not just the current version: 7.6.0 imports
